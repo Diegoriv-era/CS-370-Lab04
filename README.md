@@ -12,7 +12,7 @@ shaders may take some time to finish downloading
 when done, press play, and enjoy the game!
 
 FOR EXTRA CREDIT WE:
-  	. implemented a point system that can be seen on screen as a debug message
+  	  . implemented a point system that can be seen on screen as a debug message
 	  . implemented a launcher weapon that is equipped when reaching a threshold of points (500 pts)
 	  . added a very basic difficulty level that impacts the spawn time interval after reaching same threshold
 	  . added equip sound for the weapons
