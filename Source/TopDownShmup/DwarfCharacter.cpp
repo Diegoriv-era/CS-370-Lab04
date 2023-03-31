@@ -86,6 +86,9 @@ void ADwarfCharacter::death(){
         ATopDownShmupCharacter* player = Cast<ATopDownShmupCharacter>(playerPawn);
         if(player){
             player->points += 100;
+            if (GEngine){
+                GEngine->AddOnScreenDebugMessage(-4, 2.0f, FColor::FromHex("FFD700"), FString::Printf(TEXT("+100")));
+            }
             
         }
         
