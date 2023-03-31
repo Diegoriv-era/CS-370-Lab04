@@ -1,5 +1,7 @@
 # CS-370
 projects/labs for CS370
+
+INSTRUCTIONS TO ACCESS AND PLAY OUR GAME:
 Click on our git hub repo link https://github.com/Diegoriv-era/CS-370-Lab04
 Clone the repo to your local machine via the instructions provided on canvas (See https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository )
 Open your finder/file explorer and navigate to the cloned repo (should be called 'CS-370-Lab04')
